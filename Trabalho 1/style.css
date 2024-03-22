@@ -1,0 +1,82 @@
+/*Estilo do curriculo no geral*/
+
+body{
+
+    background-color: #191919;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+    
+    font-family: "Ropa Sans", sans-serif;
+    line-height: 1.5;
+    color: #191919; /*usei outra cor por achar que combinaria melhor com a paleta, apenas*/
+
+}
+
+main{
+
+    background-color: #EFECEC; /*isso é branco, mas não 100% como o #FFFFFF*/
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+section{
+
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+
+}
+
+h1, h2, a{
+
+    color: #FC6736;
+
+}
+
+/*Estilo das experiencias do jhonny*/
+
+a.botao{
+
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    background-color: lightgray;
+    border-radius: 5px;
+
+}
+
+img.exp{
+
+    width: 40%;
+    height: 40%;    
+
+}
+
+figcaption{
+
+    margin-top: 10px;
+
+}
+
+table{
+    
+    width: 80%;
+    
+}
+
+th{
+
+    text-align: left;
+    color: #FC6736;
+
+}
+
+table, th, td{
+
+    margin-left: 4%;
+    padding: 5px;
+    font-size: 20px;
+    
+}
